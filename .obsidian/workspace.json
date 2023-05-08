@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "fc6a4ef0ef4d6c4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65af6a1bde8093e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661c0967aebc5bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Runtime Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a4b2a3996280a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Runtime Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54507db1bb6939d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Sorting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f86abd79310445a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Structural Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ffd6f8367cd51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9763eacb2f3876f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45919a3964006dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Hall's Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59de845ac2ea7bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Graph Isomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b6bfca907fcefa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3089cfed8cd5d9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/DFS-BFS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1e3758f6239e849",
+    "type": "split",
+    "children": [
+      {
+        "id": "8089304af81b5836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1258759632d3439e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a93d90ceed939f32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "antisy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f394ae4b0eb9a5bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b964d8abcb2f8fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2e7c5d01d4a13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f44acdbe4c1bc7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cd212b9d6d70f4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5fb7dc5030b8f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f93609e195d3eb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete Math/Graphs Theory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b6bfca907fcefa1",
+  "lastOpenFiles": [
+    "Discrete Math/Graph Isomorphism.md",
+    "Discrete Math/DFS-BFS.md",
+    "Discrete Math/Transitive Relations.md",
+    "Discrete Math/Graphs Theory.md",
+    "Discrete Math/Conjunctive and Disjuntive Formulas.md",
+    "Discrete Math/Trees.md",
+    "Discrete Math/Relations.md",
+    "Discrete Math/Planar Graphs.md",
+    "Discrete Math/Hall's Theorem.md",
+    "Discrete Math/Structural Induction.md",
+    "Discrete Math/Sorting.md",
+    "Discrete Math/Runtime Analysis.md",
+    "Discrete Math/Proof Operations.md",
+    "Discrete Math/Recursion.md",
+    "Discrete Math/Linear Transformation.md",
+    "Discrete Math/The fundamental Theorem of Arithmetic.md",
+    "Discrete Math/Inductive proof.md",
+    "Homeworks/Sample Midterm.md",
+    "Discrete Math/Logical Arguments.md",
+    "Discrete Math/Set.md",
+    "Discrete Math/Propositional Logic.md"
+  ]
+}
